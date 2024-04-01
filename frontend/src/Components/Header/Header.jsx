@@ -34,6 +34,15 @@ const navLink = [
     path: '/hospital', 
     display: 'Hospital',
   },
+  {
+    path: 'https://stellular-bombolone-b927da.netlify.app/', 
+    display: 'Virtual Assessment',
+  },
+  
+  {
+    path: 'https://gundeeps247.github.io/payment/', 
+    display: 'Payment',
+  },
 ]
 
 const Header = () => {
